@@ -23,6 +23,6 @@
 - [learning-platform](https://github.com/princekatiyar007/learning-platform)
 - [weather-app](https://github.com/princekatiyar007/weather-app)
 
-<p align="center">
+<!-- <p align="center">
   <sub>Minimal. Premium. User-first.</sub>
-</p>
+</p> -->
