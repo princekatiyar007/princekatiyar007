@@ -1,8 +1,8 @@
 # Prince Katiyar
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=1600&q=80" alt="Premium design workspace" width="100%" />
-</p>
+</p> -->
 
 <p align="center">
   <strong>Web Designer + Front-End Creator</strong>
