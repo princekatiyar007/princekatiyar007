@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:princekatiyar2977@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/princekatiyar007"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=princekatiyar2977@gmail.com&su=Project%20Inquiry"><img src="https://img.shields.io/badge/Email-Contact%20Me-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/princekatiyar007?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" /></a>
 </p>
 
 ## About Me
@@ -66,7 +66,7 @@ I'm open to web design, front-end, and UI revamp opportunities.
 If you want a digital product that looks premium and feels intuitive, let's build it.
 
 - Email: **princekatiyar2977@gmail.com**
-- GitHub: **[github.com/princekatiyar007](https://github.com/princekatiyar007)**
+- GitHub: **[github.com/princekatiyar007?tab=repositories](https://github.com/princekatiyar007?tab=repositories)**
 
 ---
 
