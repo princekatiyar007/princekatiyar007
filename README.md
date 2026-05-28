@@ -13,9 +13,9 @@
   <a href="https://github.com/princekatiyar007?tab=repositories"><img src="https://img.shields.io/badge/GitHub-View%20Work-111827?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,html,css,js,react,tailwind&theme=dark" alt="Stack" />
-</p>
+</p> -->
 
 ## Selected Work
 
