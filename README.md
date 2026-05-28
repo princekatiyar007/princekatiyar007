@@ -5,14 +5,18 @@
 </p>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=princekatiyar2977@gmail.com&su=Project%20Inquiry"><img src="https://img.shields.io/badge/Email-Contact%20Me-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/princekatiyar007?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" /></a>
+  <img src="https://img.shields.io/badge/Available%20for-Freelance%20%26%20Collaborations-0ea5e9?style=for-the-badge&labelColor=0b1220" alt="Availability" />
+</p>
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=princekatiyar2977@gmail.com&su=Project%20Inquiry"><img src="https://img.shields.io/badge/Email-Start%20a%20Project-111827?style=for-the-badge&logo=gmail&logoColor=22c1ff&labelColor=050b18" alt="Email" /></a>
+  <a href="https://github.com/princekatiyar007?tab=repositories"><img src="https://img.shields.io/badge/GitHub-View%20Work-111827?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=050b18" alt="GitHub Repositories" /></a>
 </p>
 
 ## About Me
 
-I design and build interfaces that are clean, conversion-focused, and fast.
-My process blends visual systems, UX thinking, and front-end execution so products feel premium and perform like they should.
+I design and build polished digital interfaces that feel premium, intuitive, and fast.
+My workflow blends visual systems, UX strategy, and front-end execution so every experience looks sharp and performs smoothly.
 
 - Crafting modern, responsive UI for web products.
 - Turning rough ideas into polished, user-ready experiences.
@@ -25,19 +29,18 @@ My process blends visual systems, UX thinking, and front-end execution so produc
 - **Usability over noise:** elegant UI should still be practical.
 - **Performance by default:** smooth experience on both desktop and mobile.
 
-## Toolbox
+## Signature Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-111827?style=flat-square&logo=adobexd&logoColor=white" alt="Adobe XD" />
-  <img src="https://img.shields.io/badge/Photoshop-111827?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Illustrator-111827?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,html,css,js,tailwind,bootstrap,react&theme=dark" alt="Design and development skills" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Design%20Tools-Figma%20%7C%20Adobe%20XD%20%7C%20Photoshop%20%7C%20Illustrator-0f172a?style=for-the-badge&labelColor=050b18&color=0ea5e9" alt="Design tools" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Front-End-HTML5%20%7C%20CSS3%20%7C%20JavaScript%20%7C%20React%20%7C%20Tailwind-0f172a?style=for-the-badge&labelColor=050b18&color=22c1ff" alt="Frontend stack" />
 </p>
 
 ## What I Build
